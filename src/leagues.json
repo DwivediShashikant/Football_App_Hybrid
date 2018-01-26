@@ -1,0 +1,18 @@
+[
+    {
+        "leagueName" : "Barclays Premier League",
+        "leagueCountry" : "England" 
+    },
+    {
+        "leagueName" : "Spanish League",
+        "leagueCountry" : "Spain" 
+    },
+    {
+        "leagueName" : "Bundesliga",
+        "leagueCountry" : "Germany" 
+    },
+    {
+        "leagueName" : "Liga-1",
+        "leagueCountry" : "France" 
+    }
+]
