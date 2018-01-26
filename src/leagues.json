@@ -1,22 +1,27 @@
 [
     {
         "leagueName" : "Barclays Premier League",
-        "leagueCountry" : "England" 
+        "leagueCountry" : "England",
+        "leagueTeamsUrl" : ""
     },
     {
         "leagueName" : "Spanish League",
-        "leagueCountry" : "Spain" 
+        "leagueCountry" : "Spain", 
+        "leagueTeamsUrl" : "https://raw.githubusercontent.com/DwivediShashikant/Football_App_Hybrid/master/src/la-liga-teams.json"
     },
     {
         "leagueName" : "Bundesliga",
-        "leagueCountry" : "Germany" 
+        "leagueCountry" : "Germany", 
+        "leagueTeamsUrl" : ""
     },
     {
         "leagueName" : "Liga-1",
-        "leagueCountry" : "France" 
+        "leagueCountry" : "France",
+        "leagueTeamsUrl" : ""
     },
     {
         "leagueName" : "Seriea A",
-        "leagueCountry" : "Italy" 
+        "leagueCountry" : "Italy",
+        "leagueTeamsUrl" : ""
     }
 ]
