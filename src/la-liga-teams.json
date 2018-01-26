@@ -1,0 +1,17 @@
+ [
+  {
+    "teamId" : 1,
+    "teamName" : "Real Madrid",
+    "teamLogo" : "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+  },
+  {
+    "teamId" : 2,
+    "teamName" : "Barcelona",
+    "teamLogo" : "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+  },
+  {
+    "teamId" : 3,
+    "teamName" : "Atletico Madrid",
+    "teamLogo" : "https://upload.wikimedia.org/wikipedia/an/4/4d/Atletico_Madrid.png"
+  }
+]
