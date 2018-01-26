@@ -1,0 +1,17 @@
+[
+  {
+    "teamId" : 1,
+    "teamName" : "Manchester United",
+    "teamLogo" : "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+  },
+  {
+    "teamId" : 2,
+    "teamName" : "Liverpool",
+    "teamLogo" : "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+  },
+  {
+    "teamId" : 3,
+    "teamName" : "Arsenal",
+    "teamLogo" : "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+  }
+]
