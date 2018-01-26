@@ -2,7 +2,7 @@
     {
         "leagueName" : "Barclays Premier League",
         "leagueCountry" : "England",
-        "leagueTeamsUrl" : ""
+        "leagueTeamsUrl" : "https://raw.githubusercontent.com/DwivediShashikant/Football_App_Hybrid/master/src/epl-teams.json"
     },
     {
         "leagueName" : "Spanish League",
