@@ -12,7 +12,7 @@
     {
         "leagueName" : "Bundesliga",
         "leagueCountry" : "Germany", 
-        "leagueTeamsUrl" : ""
+        "leagueTeamsUrl" : "https://raw.githubusercontent.com/DwivediShashikant/Football_App_Hybrid/master/src/bundesliga-teams.json"
     },
     {
         "leagueName" : "Liga-1",
